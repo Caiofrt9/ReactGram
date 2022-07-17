@@ -13,9 +13,7 @@
 
   </div>
 
-  <h1>
-  <img src='./frontend/assets/animação.gif'>
-  </h1>
+  ![Animação](https://user-images.githubusercontent.com/85707604/179428299-5743f375-e430-4944-8497-bcd42e72fb86.gif)
 
   <div>
   <h2>What's ReactGram?</h2>
