@@ -14,7 +14,7 @@
   </div>
 
   <h1>
-  <img src='./assets/animação.gif'>
+  <img src='./frontend/assets/animação.gif'>
   </h1>
 
   <div>
