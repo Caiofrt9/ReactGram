@@ -17,7 +17,7 @@
 
   <div>
   <h2>What's ReactGram?</h2>
-  <h3>Application made to simulate basic instagram features, in this project it is possible to register a new user and log in, edit profile by changing photo, bio and user name, in addition to being able to post photos, like and comment on the photo of other users.</h3>
+  <h3>Application made to simulate basic instagram features, in this project it is possible to register a new user and login, edit profile by changing photo, bio and user name, in addition to being able to post photos, like and comment on the photo of other users.</h3>
   </div>
     
     
